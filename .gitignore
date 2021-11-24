@@ -1,2 +1,8 @@
 *.o
 crnlib/crunch
+.vs/
+bin/
+crnlib/
+crunch/
+Backup/
+UpgradeLog.htm
